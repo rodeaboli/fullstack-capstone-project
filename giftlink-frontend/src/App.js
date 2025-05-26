@@ -5,9 +5,15 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import Navbar from './components/Navbar/Navbar';
 import DetailsPage from './components/DetailsPage/DetailsPage';
+<<<<<<< HEAD
 import LoginPage from './components/LoginPage/LoginPage';
 import RegisterPage from './components/RegisterPage/RegisterPage';
 import SearchPage from './components/SearchPage/SearchPage';
+=======
+import RegisterPage from './components/RegisterPage/RegisterPage';
+import LoginPage from './components/LoginPage/LoginPage';
+
+>>>>>>> c1402eb (details page)
 
 function App() {
 
