@@ -124,5 +124,4 @@ function DetailsPage() {
         </div>
     );
 }
-
 export default DetailsPage;
